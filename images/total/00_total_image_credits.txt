@@ -1,0 +1,94 @@
+
+
+
+BASIC		Artist Surname, First Initial. Second Initial. (Year). Title of the artwork [Format].
+		Retrieved from SOURCE / URL (address of web site)
+
+EXAMPLE		Baumel, A.  (2010). Cholera treatment center in Haiti [Online image]. 
+		Retrieved October 2, 2010 from https://www.doctorswithoutborders.org
+
+
+NO INFO		[Untitled illustration of a sleeping dog ]. Retrieved December 5, 2010
+		from http://www.sleepinganimals/pix.com
+
+
+__________
+
+
+	<!-- corona_civica_total_01 -->
+Thomas Langmann and Jérôme Seydoux (Producers & Directors). (2008). Astérix aux Jeux Olympiques [Motion Picture]. France: La Petite Reine, Pathé Renn Productions.
+
+
+	<!-- corona_civica_total_02 -->
+Philippe Bony, Thomas Valentin (Producers), & Alexandre Astier, Louis Clichy (Directors). (2014). Astérix – Le Domaine des Dieux [Motion Picture]. France: Belvision, Grid Animation, M6 Films
+
+	<!-- corona_civica_total_03 --> 
+[Untitled illustration from: Asterix: Le Papyrus de César, published 2015]
+Retrieved 7th of January 2019 from https://www.asterix.com/en/the-collection/albums/asterix-and-the-missing-scroll/
+
+
+	<!-- THERE IS NO 4 !!!!! -->
+
+
+	<!-- corona_civica_total_05 -->
+Walter Wagner (Producer), Joseph L. Mankiewicz (Director). (1963) Cleopatra [Motion Picture]. United States: Twentieth Century-Fox Film Corporation
+
+
+	<!-- corona_civica_total_06 -->
+Raffaella De Laurentiss (Producer), John Milius (Director). (1982) Conan the Barbarian [Motion Picture]. United States: Universal Pictures
+
+
+
+	<!-- corona_civica_total_07 -->
+[Untitled photograph of Michael Phelps, at the Olympic Games in Athens 2004]
+Retrieved 7th of January 2019 from https://www.cosmopolitan.com/entertainment/news/g6020/michael-phelps-gold-medals-olympics/?slide=5
+
+
+	<!-- corona_civica_total_08 -->
+[Untitled photograph of Judith Arndt at the International Olympic Games at 2004]
+Retrieved 7th of January 2019 from http://www.santabanta.com/gallery/sports/olympic-2004/judith-arndt-of-germany-(r)-receives-a-wreath-from/7823/
+
+
+	<!-- corona_civica_total_09 --> 
+[Tiny Leaf Ear Climber rose gold earrings bridesmaid earrings Laurel wreath ear climbers Ear Vine ear crawlers gold earrings wedding earrings]
+Retrieved 7th of January 2019 from https://www.etsy.com/listing/613738301/tiny-leaf-ear-climber-rose-gold-earrings?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=laurel&ref=sc_gallery-1-1&plkey=fa05e0183db1f354aee3bf5ea3550fd452b433e1%3A613738301&ep_click=1&pro=1
+
+	
+	<!-- corona_civica_total_10 -->
+[Untitled image of laurel wreath tattoo]
+Retrieved 7th of January 2019 from https://nl.pinterest.com/pin/515028907367332935/?lp=true
+
+
+	<!-- corona_civica_total_11 -->
+[Untitled image of laurel wreath tattoo]
+Retrieved 7th of January 2019 from https://www.tattooniedesign.com/products/laurel-wreath?locale=en
+
+	
+	<!-- corona_civica_total_12 -->
+Fred Perry Spencer Canvas Trainers - Trainers - Mens Fred Perry Shoes WsIy1678M
+Retrieved 7th of January 2019 from http://www.harthouse.co.uk/fred-perry-spencer-canvas-trainers-trainers-mens-fred-perry-shoes-wsiy1678m-p-3282.html
+
+
+	<!-- corona_civica_total_13 --> 
+Fred Perry Reissues 1980s Tennis Shoes for “Exhibition Footwear” Debut
+Retrieved 7th of January 2019 from https://www.highsnobiety.com/2015/09/09/fred-perry-reissues-1980s-tennis-shoes-debut-exhibition-footwear/
+
+
+	<!-- corona_civica_total_14 -->
+[Untitled image depicting Mercedes Benz logo]
+Retrieved 7th of January 2019 from http://www.car-brand-names.com/mercedes-benz-logo/
+
+
+	<!-- corona_civica_total_15 -->
+[Untitled photograph of the Fred Perry Headquarter in London]
+Retrieved 7th of January 2019 from http://blog.colourfulrebel.com/fred-perry-laat-een-oude-londense-fabriek-ombouwen-tot-een-fantastisch-nieuw-hq/
+
+
+	<!-- corona_civica_16 -->
+Beyoncé and Jay Z [Beyoncé]. (2018, 16 June). APES**T - THE CARTERS [Video file]. 
+Retrieved 7th of January 2019 from https://www.groene.nl/artikel/da-vinci-versus-jay-z
+
+
+	<!-- corona_civica_17 -->
+James Murray (2012). Anonymous are back [online image]
+Retrieved 7th of January 2019 from https://thinkjamesphoto.com/blog/2012/1/Anonymous-are-back

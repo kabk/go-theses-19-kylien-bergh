@@ -1,0 +1,120 @@
+
+
+
+BASIC		Artist Surname, First Initial. Second Initial. (Year). Title of the artwork [Format].
+		Retrieved from SOURCE / URL (address of web site)
+
+EXAMPLE		Baumel, A.  (2010). Cholera treatment center in Haiti [Online image]. 
+		Retrieved October 2, 2010 from https://www.doctorswithoutborders.org
+
+
+NO INFO		[Untitled illustration of a sleeping dog ]. Retrieved December 5, 2010
+		from http://www.sleepinganimals/pix.com
+
+
+__________
+
+
+
+	<!-- corona_civica_myth_01.jpg -->
+[Untitled engraving]. Retrieved Januari 2, 2019
+from  https://nl.pinterest.com/pin/502784745882342471/ 
+
+
+
+	<!-- corona_civica_myth_02.jpg -->
+Robert Willemsz de Baudous (1574/5–1659). Apollo Killing the Python
+[Engraving: plate: 17.4 x 25 cm, sheet: 19.2 x 26.2 cm]
+Retrieved from https://www.portablepress.com/blog/2015/09/10-dragons-greek-mythology/ 
+
+
+
+	<!-- corona_civica_myth_03.jpg -->
+Peter Paul Rubens (1636-1637). Apollo and the Python 
+[oil on panel. oil on panel 26.8 cm x 42.2 cm]
+Retrieved from https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Apollo_and_the_Python,_1636-1637.jpg 
+
+
+
+	<!-- corona_civica_myth_04.jpg -->
+George Spencer Watson (1869-1934). Apollo and Daphne [oil on canvas, 71.2 x 91.5 cm] 
+retrieved from https://www.christies.com/lotfinder/Lot/george-spencer-watson-ra-rws-roi-1869-1934-5335078-details.aspx 
+
+
+
+	<!-- corona_civica_myth_05.jpg -->
+[Untitled fresco]. Retrieved Januari 2, 2019 
+from http://www.greek-language.gr/digitalResources/ancient_greek/mythology/lexicon/water/page_049.html
+
+
+
+
+	<!-- corona_civica_myth_06.jpg -->
+Italian School-Florentine (15th century). Lateral panel from a cassone, with a scene from Ovid's Metamorphoses: Apollo and Daphne
+[Tempera on panel 47.7 x 48.8 cm] retrieved from http://www.artnet.com/artists/italian-school-florentine-15/lateral-panel-from-a-cassone-with-a-scene-from-FfYneWcD_EkvqQGs6HCMSw2 
+
+
+
+
+	<!-- corona_civica_myth_07.jpg -->
+Jan Boeckhorst (German, about 1604 - 1668). Apollo and Daphne
+[drawing: 22.1 × 23.2 cm] retrieved from http://www.getty.edu/art/collection/objects/220399/jan-boeckhorst-apollo-and-daphne-german-about-1640/
+
+
+
+
+	<!-- corona_civica_myth_08.jpg -->
+Peter Paul Rubens  (1577–1640). Apollo and Daphne
+[oil on panel 28.5 × 27.5 cm] retrieved from https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Apollon_et_Daphné.JPG
+
+
+
+	<!-- corona_civica_myth_09.jpg -->
+Andrea Appiani (Italian, 1754–1817). Apollo e Dafne
+[Oil on Paper 35 x 30.5 cm] retrieved from http://www.artnet.com/artists/andrea-appiani/apollo-e-dafne-dwsyBuRBGvCluPcP-Nhkdg2 
+
+
+
+	<!-- corona_civica_myth_10.jpg -->
+[Untitled detail of a Mosaic from Zeugma, late 3rd century A.D. Dimensions: h. 190.0 cm., w. 592.0 cm. Place excavated: The House of Menander, Turkey] 
+retrieved 2nd of Januari 2019 from http://www.ipernity.com/doc/laurieannie/24107199
+
+
+
+
+	<!-- corona_civica_myth_11.jpg -->
+Jacopo Robusti Tintoretto (1518–1594). Apollo and Daphne [oil on wood, 153 × 133cm.] 
+retrieved from https://www.art.com/products/p22676077445-sa-i7823354/tintoretto-apollo-and-daphne.htm
+
+
+
+	<!-- corona_civica_myth_12.jpg -->
+John William Waterhouse (1849–1917). Apollo and Daphne [painting 145 cm x 112 cm] 
+retrieved from https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_waterhouse.jpg 
+
+
+
+	<!-- corona_civica_myth_13.jpg -->
+[Untitled engraving]. Retrieved Januari 2, 2019 
+from http://dekluizenaar.mimesis.nl/?m=2006&cat=16&paged=3
+
+
+
+	<!-- corona_civica_myth_14.jpg -->
+Gian Lorenzo Bernini (1622–25). Apollo and Daphne [Marble Sculpture, 243 cm]
+retrieved from http://arteimmagine.annibalepinotti.it/index.php/periodi-e-movimenti/18256-bernini-apollo-e-dafne-1622-25
+
+
+
+	<!-- corona_civica_myth_15.jpg -->
+[Untitled painting]. Retrieved Januari 2, 2019 
+from http://www.kadinlarbegendi.com/defne-yapragi-faydalari/
+
+
+	<!-- corona_civica_myth_16.jpg -->
+Charles Meynier (–1832). Apollo, God of Light, Eloquence, Poetry and the Fine Arts with Urania, Muse of Astronomy [oil on canvas 275 cm x 235 cm]
+retrieved from https://commons.wikimedia.org/wiki/File:Charles_Meynier_-_Apollo_(1798).jpg
+
+
+
+

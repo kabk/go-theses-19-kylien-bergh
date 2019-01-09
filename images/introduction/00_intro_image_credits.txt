@@ -1,0 +1,97 @@
+
+
+
+BASIC		Artist Surname, First Initial. Second Initial. (Year). Title of the artwork [Format].
+		Retrieved from SOURCE / URL (address of web site)
+
+EXAMPLE		Baumel, A.  (2010). Cholera treatment center in Haiti [Online image]. 
+		Retrieved October 2, 2010 from https://www.doctorswithoutborders.org
+
+
+NO INFO		[Untitled illustration of a sleeping dog ]. Retrieved December 5, 2010
+		from http://www.sleepinganimals/pix.com
+
+
+__________
+
+
+
+	<!-- corona_civica_intro_01.jpg -->
+[Untitled photograph of a tree branch]. Retrieved December 30, 2018 
+from  https://pxhere.com/en/photo/677654 
+
+
+
+	<!-- corona_civica_intro_02.jpg -->
+Bjorgen, D. (2006). Corinthian Column Head Jerash [Online Image]
+Retrieved December 30, 2018 from https://pl.wikipedia.org/wiki/Plik:Corinthian_Column_Head_Jerash.jpg
+
+
+	<!-- corona_civica_intro_03.jpg -->
+[Untitled photograph of the columns of the Pantheon in Paris]. Retrieved December 30, 2018
+from https://nl.pinterest.com/pin/291678513344560369/ 
+
+
+	<!-- corona_civica_intro_04.jpg -->
+Classical orders, engraving from the Encyclopédie vol. 18. 18th-century French engraving. (1761)
+Retrieved December 30, 2018 from https://commons.wikimedia.org/wiki/File:Classical_orders_from_the_Encyclopedie.png 
+
+
+	<!-- corona_civica_intro_05.jpg -->
+!!!!SCANSS!!!!!
+
+
+	<!-- corona_civica_intro_6.jpg -->
+!!!!SCANSS!!!!!
+
+
+	<!-- corona_civica_intro_7.jpg -->
+[Untitled photograph of Roman wool merchant Titus Aelius Evangelus. Mid-2nd c.]. 
+Retrieved December 30, 2018 from https://nl.pinterest.com/pin/164099980151028166/
+
+
+
+	<!-- corona_civica_intro_8.jpg -->
+[Untitled photograph of The Torlonia relief. Testaguzza 1970, p. 171.]. 
+Retrieved December 30, 2018 from http://www.ostia-antica.org/portus/reliefs.html 
+
+
+
+	<!-- corona_civica_intro_9.jpg -->
+Should be more ornamental stuff, flower related
+
+
+	<!-- corona_civica_intro_10.jpg -->
+[Untitled photograph of the Laurus Nobilis]. 
+Retrieved December 30, 2018 from http://florawww.eeb.uconn.edu/198500843.html 
+
+
+	<!-- corona_civica_intro_11.jpg -->
+[Untitled drawing of the Laurus Nobilis]. 
+Retrieved December 30, 2018 from https://www.flickr.com/photos/ciuccio51/35534376896/ 
+
+
+	<!-- corona_civica_intro_12.jpg -->
+[Untitled photograph of a statue at the Warsaw Wilanów Palace] 
+Retrieved December 30, 2018 from https://pixabay.com/en/angel-laurel-the-statue-wilanów-2875927/ 
+
+
+	<!-- corona_civica_intro_13.jpg -->
+[Untitled photograph of the Ángel de la Independencia, at Mexico City] 
+Retrieved December 30, 2018 from https://1.bp.blogspot.com/-7X6HzE2ajUY/TyheWZK44pI/AAAAAAAAAIY/zLMOHWmndKA/s1600/angel_04.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

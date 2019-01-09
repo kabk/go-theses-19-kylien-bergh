@@ -1,0 +1,115 @@
+
+
+
+BASIC		Artist Surname, First Initial. Second Initial. (Year). Title of the artwork [Format].
+		Retrieved from SOURCE / URL (address of web site)
+
+EXAMPLE		Baumel, A.  (2010). Cholera treatment center in Haiti [Online image]. 
+		Retrieved October 2, 2010 from https://www.doctorswithoutborders.org
+
+
+NO INFO		[Untitled illustration of a sleeping dog ]. Retrieved December 5, 2010
+		from http://www.sleepinganimals/pix.com
+
+
+__________
+
+
+
+	<!-- corona_civica_history_01.jpg -->
+Luc Viatour (1999). L'éclipse totale de soleil en 1999 faite en France [Online Image].
+Retrieved 2nd of January 2019 from https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4_NR.jpg
+
+
+	<!-- corona_civica_history_02.jpg -->
+[Detail from the 6th-century mosaic "Empress Theodora and Her Court" in the Basilica of San Vitale in Ravenna, before 547.]
+retrieved 2nd of January 2019 from https://www.awesomestories.com/asset/view/Empress-Theodora-San-Vitale-Mosaic-in-Ravenna
+
+
+
+	<!-- corona_civica_history_03.jpg -->
+Ritter, Ekkehard (1975-1979). untitled image depicting South wall lunette, lower register, Story of Joseph, butler before Pharaoh, detail of head of Pharaoh
+retrieved 3rd of January 2019 from http://atom.doaks.org/atom/index.php/south-wall-lunette-lower-register-story-of-joseph-butler-before-pharaoh-detail-of-head-of-pharaoh 
+
+
+	<!-- corona_civica_history_04.jpg -->
+[Untitled photograph 18th dynasty relief depicting Amenhotep III, circa 1360 b.c.]
+retrieved 3rd of January 2019 from http://www.wereldvanderegenboog.nl/amenhotep-iii/
+
+
+	<!-- corona_civica_history_05.jpg -->
+Universal Images Group [1911] Bas-reliefs on the temple at Dendera, Egypt showing a Ptolemaic Pharaoh being crowned by the goddesses Nekhbet and Wadjet, patronesses respectively of Upper and Lower Egypt, with the double crown of these dominions. retrieved 3rd of January 2019 from https://www.gettyimages.ae/detail/news-photo/bas-reliefs-on-the-temple-at-dendera-egypt-showing-a-news-photo/1036138348
+
+
+	<!-- corona_civica_history_06.jpg -->
+[untitled image depicting an Egyptian silver royal diadem. second intermediate period, 17th dynasty, circa 1580-1550 b.c.]
+retrieved 3rd of January 2019 from https://www.christies.com/features/An-ancient-Egyptian-silver-diadem-fit-for-a-queen-5813-1.aspx 
+
+
+
+	<!-- corona_civica_history_07.jpg -->
+Martin Engelbrecht (2008). Ottonian crown on display at Essen's cathedral treasury, ca. 1100. Long believed to be the infant crown of king of Romans Otto III.
+retrieved 3rd of January 2019 from https://en.wikipedia.org/wiki/File:Ottonische_Königskrone.jpg
+
+
+	<!-- corona_civica_history_08.jpg -->
+[Untitled photograph depicting the 13th century Vajracarya's Ritual Crown]
+retrieved 3rd of January 2019 from https://en.wikipedia.org/wiki/File:MET_DP-1041-001.jpg
+
+
+	<!-- corona_civica_history_09.jpg -->
+[untitled photograph of golden Hellenistic diadem] Retrieved 2nd of January 2019 from http://www.thehistoryblog.com/archives/42404
+
+
+	<!-- corona_civica_history_10.jpg -->
+Nicolas Coustou  (1658–1733). Julius Caesar, Commissioned in 1696 for the Gardens of Versailles, to go with the Annibal by Sébastien Slodtz.
+Retrieved 3rd of January 2019 from https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre_MR1798.jpg
+
+	<!-- corona_civica_history_11.jpg -->
+[Untitled woodcut depicting Julius Caesar Refusing Imperial Crown by Tadema]
+Retrieved 3rd of January 2019 https://www.gettyimages.ae/detail/news-photo/julius-caesar-refusing-the-imperial-crown-offered-him-by-news-photo/517447066
+
+
+	<!-- corona_civica_history_12.jpg -->
+[Untitled engraving] Retrieved 3rd of January 2019 from https://www.gettyimages.nl/detail/foto/st-helena-discovering-the-true-cross-of-jesuss-crucifixion-stockfotos/601216642
+
+
+	<!-- corona_civica_history_13.jpg -->
+[Engraved portrait of the Roman Emperor Titus. The engraving by Aegidius Sadeler II is one of 12 portraits of Roman emperors originally painted by Titian circa 1537 for Duke Federigo Gonzaga. Titian's original painting was destroyed in a fire in 1734.] Retrieved 3rd of January 2019 from https://commons.wikimedia.org/wiki/File:Titus_Vespasian_Emperor_of_Rome_79-81_AD_engraved_by_Aegidius_Sadeler.jpg 
+
+
+	<!-- corona_civica_history_14.jpg-->
+Gabriel Pascal. (1945). Caesar and Cleopatra [Motion Picture] United Kingdom: Eagle-Lion Distributors.
+
+
+	<!-- corona_civica_history_15.jpg -->
+Raffaello Sanzio Morghen (1758-1833). Engraved portrait of Giovanni Boccaccio (1313–1375) 
+Retrieved 3rd of January 2019 https://it.wikipedia.org/wiki/Francesco_Petrarca#/media/File:Boccaccio_by_Morghen.jpg 
+
+
+	<!-- corona_civica_history_16.jpg -->
+Sandro Botticelli (1495) Portrait of Dante Alighieri [Painting, Tempera. 54.7 × 47.5 cm]
+Retrieved 3rd of January 2019 from https://en.wikipedia.org/wiki/File:Portrait_de_Dante.jpg
+
+
+	<!-- corona_civica_history_17.jpg -->
+[Untitled mummy portrait portrait of bejewelled woman with part of linen wrappings, probably from Ankyronopolis (El Hibeh, Egypt); Romano-Egyptian, 100-110 CE. The woman's name, Isidora ("gifts of Isis"), is inscribed in Greek on the side of the wrappings, and the gold hair ornament and quantity of expensive jewelry indicate her high social standing. painting created in the early 2nd century AD]
+retrieved 2nd of January 2019 from https://commons.wikimedia.org/wiki/File:Fayum-39.jpg 
+
+
+	<!-- corona_civica_history_18.jpg -->
+[Untitled 19th century portrait depicting Catherine II]
+Retrieved 3rd of January 2019 from https://commons.wikimedia.org/wiki/File:Catherine_II_with_laurel_wreath_by_anonymous_(19_c,_priv.coll).jpg 
+
+
+	<!-- corona_civica_history_19.jpg -->
+DETAIL: Jacques-Louis David (1748–1825). Sacre de l'empereur Napoléon Ier et couronnement de l'impératrice Joséphine dans la cathédrale Notre-Dame de Paris, le 2 décembre 1804 [painting, oil on canvas. 621 cm x 979 cm]
+Retrieved 3rd of January 2019 from https://en.wikipedia.org/wiki/Coronation_of_Napoleon_I#/media/File:Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg
+
+
+	<!-- corona_civica_history_20.jpg -->
+François-Pascal Simon baron Gérard (workshop of) (c. 1805 - c. 1815). Portrait of Emperor Napoleon I [painting, oil on canvas. h 226.5 cm × w 146 cm]
+Retrieved 3rd of January 2019 from https://www.rijksmuseum.nl/en/collection/SK-C-1120
+
+
+

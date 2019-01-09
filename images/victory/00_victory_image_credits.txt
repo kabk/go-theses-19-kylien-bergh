@@ -1,0 +1,96 @@
+
+
+
+BASIC		Artist Surname, First Initial. Second Initial. (Year). Title of the artwork [Format].
+		Retrieved from SOURCE / URL (address of web site)
+
+EXAMPLE		Baumel, A.  (2010). Cholera treatment center in Haiti [Online image]. 
+		Retrieved October 2, 2010 from https://www.doctorswithoutborders.org
+
+
+NO INFO		[Untitled illustration of a sleeping dog ]. Retrieved December 5, 2010
+		from http://www.sleepinganimals/pix.com
+
+
+__________
+
+
+	<!-- corona_civica_victory_01 -->
+[Untitled photograph depicting vase decoration, circa 5th century b.c. red-figure pottery]
+retrieved 2nd of January 2019 from http://villahurmuses.com/laurel-wreaths-greece/
+
+
+	<!-- corona_civica_victory_02 -->
+[Untitled photograph depicting vase decoration, circa 5th century b.c. red-figure pottery]
+retrieved 2nd of January 2019 from http://villahurmuses.com/laurel-wreaths-greece/
+
+
+	<!-- corona_civica_victory_03 -->
+Peter Paul Rubens (1577–1640). The Triumphant Entry of Constantine into Rome [oil on panel, 48.2 cm x 64.7 cm]
+https://en.wikipedia.org/wiki/File:Triumphant_Entry_of_Constantine_into_Rome_by_Peter_Paul_Rubens.jpg 
+
+
+	<-- corona_civica_victory_04 -->
+[Untitled engraving displaying the conversion of Emperor Constantine the Great]
+retrieved 2nd of January from https://www.gettyimages.nl/detail/nieuwsfoto's/the-conversion-of-emperor-constantine-the-great-nieuwsfotos/517403452 
+
+
+	<!-- corona_civica_victory_05 -->
+[Untitled photograph of Greg Meyer, winner of the Boston Marathon 1983]
+retrieved 2nd of January 2019 from https://www.bostonglobe.com/specials/insiders/2013/04/10/boston-marathon-the-last-american-winners/n1Bgovy9qe48Ih957pIXZK/story.html?pic=8#share 
+
+
+	<!-- corona_civica_victory_06 -->
+[untitled photograph of Rosie Ruiz, formerly declared winner of the 84th Boston Marathon]
+retrieved 2nd of January 2019 from http://yousense.info/626f73746f6e/boston-marathon-history-how-fake-winner-rosie-ruiz-got.html
+
+
+	<!-- corona_civica_victory_07 -->
+[untitled photograph of Rosie Ruiz, formerly declared winner of the 84th Boston Marathon]
+retrieved 2nd of January 2019 from http://yousense.info/626f73746f6e/boston-marathon-history-how-fake-winner-rosie-ruiz-got.html
+
+
+	<!-- corona_civica_victory_08 -->
+[Untitled image of the Boston Marathon]
+retrieved 2nd of January 2019 from https://imgcop.com/img/Marathon-History-77672506/ 
+
+
+	<!-- corona_civica_victory_09 --> 
+Bettmann (1936). Winners of Olympic High Jump Receiving Their Rewards [photograph: 22.86 x 29.57 cm]
+retrieved 2nd of January 2019 from https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&ved=2ahUKEwipwumuuM_fAhUJaVAKHZKXBkEQjxx6BAgBEAI&url=https%3A%2F%2Fde.pinterest.com%2Ftwfsofly%2Fsports%2F&psig=AOvVaw2pPQF-himtXebhW9TmLdu5&ust=1546530275106330
+
+
+	<!-- corona_civica_victory_10 -->
+[Untitled stamp displaying an Athlete Wearing a Laurel Wreath. France 1924 Olympic Games 10 Centimes]
+Retrieved 2nd of January 2019 from https://www.art.com/products/p20447359628-sa-i7289052/an-athlete-wearing-a-laurel-wreath-france-1924-olympic-games-10-centimes-unused.htm 
+
+
+	<!-- corona_civica_victory_11 -->
+[Untitled stamp displaying Olympic Games 1948, King George]
+Rertieved 7th of January 2019 from https://www.postzegelblog.nl/2016/07/30/olympische-zomerspelen-1948-deel-1/
+
+
+	<!-- corona_civica_victory_12 --> 
+[Untitled photograph of Alain Prost at the Italian GP in 1985]
+retrieved 2nd of January 2019 from https://www.quora.com/Why-has-the-FIA-stopped-giving-a-laurel-wreath-to-the-winner-of-a-formula-one-race 
+
+
+
+	<!-- corona_civica_victory_13 -->
+Lawrence Alma-Tadema (1885). The Triumph of Titus [oil on canvas]
+retrieved 2nd of January 2019 from https://commons.wikimedia.org/wiki/File:The_Triumph_of_Titus_Alma_Tadema.jpg 
+
+
+
+	<!-- corona_civica_victory_14 -->
+Peter Paul Rubens (17th century). The Battle of Constantine and Licinius [oil on panel 57.5 cm x 64.5 cm]
+retrieved 2nd of January 2019 from https://commons.wikimedia.org/wiki/File:The_Battle_of_Constantine_and_Licinius.jpg 
+
+
+
+	<!-- corona_civica_victory_15 -->
+Lionel Royer (1852–1926). Vercingetorix jette ses armes aux pieds de Jules César [oil on canvas]
+retrieved 2nd of January 2019 from https://commons.wikimedia.org/wiki/File:Siege-alesia-vercingetorix-jules-cesar.jpg
+
+
+

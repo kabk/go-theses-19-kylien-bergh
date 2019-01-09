@@ -1,0 +1,95 @@
+
+
+
+BASIC		Artist Surname, First Initial. Second Initial. (Year). Title of the artwork [Format].
+		Retrieved from SOURCE / URL (address of web site)
+
+EXAMPLE		Baumel, A.  (2010). Cholera treatment center in Haiti [Online image]. 
+		Retrieved October 2, 2010 from https://www.doctorswithoutborders.org
+
+
+NO INFO		[Untitled illustration of a sleeping dog ]. Retrieved December 5, 2010
+		from http://www.sleepinganimals/pix.com
+
+
+__________
+
+
+	<!-- corona_civica_transition_01 -->
+Jan Edelinck (1678). Apollo en zes muzen [engraving 422 mm × 570 mm]
+Retrieved 7th of January 2019 from https://www.rijksmuseum.nl/en/collection/RP-P-OB-50.188
+
+
+
+	<!-- corona_civica_transition_02 -->
+[Untitled photograph depicting Philip II, Ar Tetradrachm  Minted in Amphipolis 355 - 348 BC, 14.114g, 24.3mm]
+Retrieved 7th of January 2019 from https://www.cointalk.com/threads/kings-of-macedon-philip-ii-tetradrachm.262629/page-3
+
+
+	<!-- corona_civica_transition_03 -->
+[Untitled photograph depicting Fonteius Denarius minted at Rome 85 BC, Crawford 353/1c, 20mm, 3.85g]
+Retrieved 7th of January 2019 from https://www.cointalk.com/threads/of-goats-and-gods-mn-fonteius-denarius.309136/
+
+
+
+	<!-- corona_civica_transition_04 --> 
+[Halfcrown 1658 Cromwell ESC 447, Bull 252 NVF with some edge nicks and a small dig above the laurel wreath]
+Retrieved 7th of January 2019 from https://www.numisbids.com/n.php?search=above&p=sale&sid=2693
+
+
+	<!-- corona_civica_transition_05 -->
+Paris Mint, Republic of France (coin), National Numismatic Collection (image) 1807 (coin), 2010 (image). France 1807-A 40 Francs, informally known as the double napoleon.
+Retrieved 7th of January 2019 from https://commons.wikimedia.org/wiki/File:France_1807-A_40_Francs.jpg
+
+
+
+	<!-- corona_civica_transition_06 -->
+Arthus Bertrand (in or after c. 1885). French knighthood (Legion d'Honneur), received by Willem Drees
+Retrieved 7th of January 2019 from https://www.rijksmuseum.nl/en/collection/NG-2003-50
+
+
+
+	<!-- corona_civica_transition_07 -->
+Etablissements Jules Fonson (c. 1400 - c. 1950). Belgium Knighthood (Leopoldsorde), received by Willem Drees
+Retrieved 7th of January 2019 from https://www.rijksmuseum.nl/en/collection/NG-2003-51
+
+
+
+	<!-- corona_civica_transition_08 -->
+C.E. Juncker (Issued 1936-1945). Luftwaffe Pilot’s Badge [nickel-silver, 64.34 mm x 53.26 mm, 31.1 grams]
+https://www.emedals.com/europe/germany/third-reich-luftwaffe/luftwaffe-badges/pilot-s-badge/germany-luftwaffe-a-pilot-s-badge-by-c-e-juncker-77246
+
+
+
+	<!-- corona_civica_transition_09 -->
+[Untitled image depicting "War on Terrorism Service Medal."]
+Retrieved 7th of January 2019 from http://archive.defense.gov/news/newsarticle.aspx?id=27252
+
+
+
+	<!-- corona_civica_transition_10 -->
+Tsorena (2013) The medal given to UNMEE participants (US version)
+Retrieved 7th of January 2019 from https://commons.wikimedia.org/wiki/File:UNMEE_medal.jpg
+
+
+
+	<!-- corona_civica_transition_11 --> 
+[Untitled photograph of United Nations patch]
+Retrieved 7th of January 2019 from https://www.ebay.co.uk/itm/United-Nations-Circular-Badge-Patch-71mm-or-36mm-Diameter-UK-Manufactured-/160840470887?_trksid=p2385738.m4383.l44720.c10&nordt=true&rt=nc&orig_cvip=true
+
+
+
+	<!-- corona_civica_transition_12 -->
+[Stamp: Organisation Météorologique Mondiale, Helvetia. 40]
+Retrieved 7th of January 2019 from http://www.philatelicdatabase.com/topicals-thematics/talking-weather-meteorology-on-stamps/
+
+
+
+
+________
+
+
+	<!-- corona_civica_transition_02 -->
+Anonymous (1775 - 1800). Stoel van mahoniehout, bekleed met trijp met een doorlopend patroon van aan strikken hangende ovalen waarin een bloem op gestreepte grond [Mahogany 93.5 cm × w 62.5 cm × d 54 cm]
+Retrieved 7th of January 2019 from https://www.rijksmuseum.nl/en/collection/BK-16145-A
+
