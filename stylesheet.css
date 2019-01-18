@@ -8,7 +8,6 @@
 
 body {
  background-color: white;
- counter-reset: page;
 
 }
 
@@ -24,17 +23,6 @@ h1 {
 }
 
 
-/* PRO-EPI-LOGUE */
-h2 {
-  font-family: 'Libre Baskerville', serif;
-  font-size: 2vw;
-  line-height: 2.6vw;
-  font-weight: normal;
-  text-align: center;
-  margin: 0px;
-  margin-top: 13px;
-  color: white;
-}
 
 
 
@@ -45,6 +33,7 @@ p {
   padding: 13px;
   padding-top: 0px;
   padding-bottom: 0px;
+  page-break-after: always;
   margin: 0px;
 }
 
@@ -57,6 +46,10 @@ p.pagebreak {
   display: none;
 }
 
+
+p.references {
+  word-break: break-all;
+}
 
 
 a {
@@ -71,7 +64,7 @@ img {
   width: 100%;
   margin: 0px;
   padding: 0px;
-  page-break-inside: always; /* check deze */
+  margin-bottom: -5px;
 }
 
 
@@ -104,6 +97,9 @@ img {
   width: 100%;
   height: auto;
   background-color: black;
+  text-align: center;
+  color: white;
+  margin-top: 20px;
 }
 
 
@@ -134,15 +130,6 @@ img {
     justify-content: space-between;
 }
 
-
-.hoverdiv{
-  z-index: 1;
-  width: 100%;
-  height: 30px;
-  background-color: transparent;
-  position: fixed;
-  /* overflow: hidden; */
-}
 
 
 .sidenav a {
@@ -176,11 +163,10 @@ img {
   display: inline-block;
   width: 50%;
   height: auto;
+  overflow-x:hidden;
 }
 
-.leftcolumn img {
-  margin-bottom: -20px;
-}
+.leftcolumn img { min-width: 100% }
 
 .rightcolumn {
   float: left;
@@ -198,7 +184,10 @@ img {
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .column {
+  .leftcolumn {
+    width: 100%;
+  }
+  .rightcolumn{
     width: 100%;
   }
 }
@@ -215,64 +204,74 @@ img {
   body {
     margin: 0px;
     padding: 0px;
-    background-color: black;
+    background-color: white;
 
   }
 
 h1 {
     font-family: 'Libre Baskerville', serif;
-    font-size: 35px;
-    line-height: 50px;
-    padding-top: 5px;
+    font-size: 50px;
+    line-height: 58px;
+    padding-top: 0;
+    margin-top: 0;
     padding-left: 10px;
     background-color: white;
     margin-bottom: -50px;
+    padding-left: 4cm;
 
 }
 
-/* PROLOGUE */
-h2 {
-  font-family: 'Libre Baskerville', serif;
-  font-size: 20px;
-  line-height: 28px;
-  padding-left: 3cm;
-  font-weight: normal;
-  text-align: left;
-  padding-top: 2cm;
+h1.cover_type {
+  position: absolute;
+  z-index: 100;
+  background-color: transparent;
   color: white;
+  padding-top: 0.7cm;
 }
 
-h2.pagebreak {
-  page-break-after: always;
+
+h1.title_page {
+  position: absolute;
+  z-index: 100;
+  background-color: transparent;
+  padding-top: 0.7cm;
 }
+
+
+
+
+.prologue {
+  background-color: white;
+  color: black;
+  text-align: left;
+  padding-top: 0;
+  margin-top: 0;
+}
+
 
 
 /* CHAPTER DIVIDER */
 h3 {
   font-family: 'Libre Baskerville', serif;
-  font-size: 120px;
-  line-height: 40px;
+  font-size: 260px;
+  padding-left: 4cm;
   font-weight: normal;
-  text-align: center;
-  color: white;
-  padding-top: -3cm;
+  page-break-before: always;
+  page-break-after: always;
+
 }
 
 
 
   p {
     font-family: 'Libre Baskerville', serif;
-    font-size: 18px;
-    line-height: 24px;
-    orphans:3;
-    widows:3;
-    padding: 10px;
-    margin: 0px;
+    font-size: 23px;
+    line-height: 28px;
     page-break-after: always;
-    margin-top: 50px;
-    background-color: white;
-
+    padding-left: 4cm;
+    padding-right: 0.7cm;
   }
+
 
 
   p.pagebreak {
@@ -282,11 +281,86 @@ h3 {
 
   }
 
+  p.epilogue {
+    font-size: 30px;
+    line-height: 36px;
+    padding-left: -7cm;
+    margin-left: -3cm;
+  }
+
+  .colophon {
+    padding-left: -7cm;
+    margin-left: -3cm;
+  }
+
 
 
   .references {
     background-color: transparent;
-    color: white;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+
+  }
+
+
+
+  .image_references {
+    background-color: transparent;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+
+    font-size: 12px;
+    line-height: 15px;
+    padding-right: 1cm;
+
+  }
+
+  .image_references_left_page {
+    background-color: transparent;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+
+    font-size: 12px;
+    line-height: 15px;
+    padding-right: 4cm;
+    padding-left: -7cm;
+    margin-left: -3cm;
 
   }
 
@@ -298,12 +372,13 @@ h3 {
     padding: 0px;
   }
 
+
   .rightcolumn {
     float: left;
-    width: 55%;
+    width: 100%;
     padding: 0px;
     margin-right: 5%;
-    margin-top: 10%;
+    margin-top: 0;
     background-color: transparent;
 
   }
@@ -313,29 +388,40 @@ h3 {
 
   img {
     width: 21cm;
-    overflow: hidden;
-    display: hidden;
-    page-break-inside: auto !important;
+    position: relative;
   }
 
-
-  .webandprint{
+  img.cover_image {
     width: 21cm;
-    overflow: hidden;
-    display:inline;
-    page-break-inside: auto !important;
+    position: relative;
+    z-index: 0;
   }
+
+  .thumbnail {
+    height: 100px;
+    width: auto;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    margin-bottom: 2px;
+    margin-top: 1px;
+  }
+
+
+
 
   .print_only {
     width: 21cm;
     display:inline;
-    page-break-inside: auto !important;
+    page-break-before: avoid;
+    page-break-inside: avoid;
   }
 
   .web_only {
     visibility: hidden;
     display: none;
   }
+
+
 
   .chapter {
     display:inline;
@@ -350,14 +436,24 @@ h3 {
 
 
 
-      @page {
-        size: A4 portrait;
-        margin: 0;
-
-      }
-
-
-
-
-
+  @page {
+    size: A4 portrait;
   }
+
+
+  @page :left {
+      margin: 0cm;
+      margin-top: 1cm;
+      margin-bottom: 1cm;
+    }
+
+
+  @page :right {
+    margin: 0cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+  }
+
+
+
+}
