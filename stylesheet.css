@@ -182,7 +182,18 @@ img {
   clear: both;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
+
+
+
+
+
+
+
+
+
+/* --------------  M O B I L E --------------------------------- */
+
 @media screen and (max-width: 600px) {
   .leftcolumn {
     width: 100%;
@@ -190,7 +201,31 @@ img {
   .rightcolumn{
     width: 100%;
   }
+
+  h1 {
+    font-size: 8vw;
+    line-height: 9vw;
+  }
+
+  p {
+    font-size: 4vw;
+    line-height: 5vw;
+  }
+
+  .sidenav {
+      display: none;
+  }
+
+  .sidenav a {
+      display: none;
+  }
+
 }
+
+
+
+
+
 
 
 
